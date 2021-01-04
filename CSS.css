@@ -1,0 +1,43 @@
+.background-image{
+
+}
+body{
+    background-image: url("https://wallpaperstream.com/wallpapers/full/white/Grid-Hexagonal-White-HD-Wallpaper.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin: 0px;
+    }
+.zelenyobrazek{
+    margin: 200px;
+    width: 100%;
+    margin-left: 0px;
+    padding-left: -10px;
+}
+.aboutme{
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+.jmeno{
+    font-size:100px;
+    color:white;
+    margin:10px;
+}
+.navigace{
+    font-family: "Arial Black";
+    text-decoration: none;
+}
+.skola{
+    text-decoration: none;
+    color: dodgerblue;
+    padding: 70px;
+}
+.omne{
+    padding: 70px;
+    text-decoration: none;
+    color: dodgerblue;
+}
+.hry{
+    padding: 70px;
+    text-decoration: none;
+    color: dodgerblue;
+}
